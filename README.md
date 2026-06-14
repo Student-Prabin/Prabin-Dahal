@@ -37,7 +37,16 @@ I am a passionate **Full-Stack Web Developer** currently focused on building res
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=Student-Prabin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400" />
+  <br />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Student-Prabin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400" />
+</p>
+
+---
 
 ### 🤝 Connect with me
 - **Portfolio:** [Visit My Site](https://portfolio-ten-dun-4nu8qwe4ah.vercel.app/)
-- **GitHub:** [@Prabin-Dahal](https://github.com/Prabin-Dahal)
+- **GitHub:** [@Student-Prabin](https://github.com/Student-Prabin)
