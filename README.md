@@ -40,15 +40,15 @@ I am a passionate **Full-Stack Web Developer** currently focused on building res
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prabin Dahal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabin Dahal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400" />
 </p>
 
 ---
 
 ### 🤝 Connect with me
 - **Portfolio:** [Visit My Site](https://portfolio-ten-dun-4nu8qwe4ah.vercel.app/)
-- **GitHub:** [@[YOUR_GITHUB_USERNAME]](https://github.com/[YOUR_GITHUB_USERNAME])
+- **GitHub:** [@Prabin Dahal](https://github.com/Prabin Dahal])
 
 _“The best way to predict the future is to invent it.”_ 💻
